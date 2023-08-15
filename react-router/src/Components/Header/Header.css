@@ -1,0 +1,17 @@
+.home {
+    margin-left: 20px;
+}
+.header {
+    margin: 10px 20px;
+    font-size: 20px;
+}
+.main-container, .cus-container {
+    list-style: none;
+    
+}
+.list {
+    padding-left: 10px;
+}
+.link {
+    text-decoration: none;
+}
